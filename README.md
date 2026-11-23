@@ -12,7 +12,7 @@ I'm a physics undergrad, I'm interested in and focusing on microcontroller firmw
 
 ---
 ### Featured Projects
-* **[Project 1]...
+* **[Project 1]**...
 
 ---
 
