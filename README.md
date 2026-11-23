@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi, I'm Emre
 
-<!--
-**Ravenger13/Ravenger13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a physics undergrad, I'm interested in and focusing on microcontroller firmware, data acquisition, scientific simulation, C/Python tooling, Game development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Stack
+
+* **Languages:** C, C++, Python, MATLAB
+* **Hardware & Instrumentation:** ESP32, LabVIEW, LTspice, KiCad
+* **Libraries & Tools:** NumPy, Pandas, Matplotlib, Git
+
+---
+### Featured Projects
+* **[Project 1]...
+
+---
+
+### Contact
+
+* **Email:** halimemredg@gmail.com
+* **LikedIn:** www.linkedin.com/in/emre-dogdu13
+
